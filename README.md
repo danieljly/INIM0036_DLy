@@ -20,3 +20,7 @@ If you wish to attempt to recreate the data shown in the project, run the follow
 ----------
 Access to main file: 
 https://github.com/danieljly/INIM0036_DLy/blob/main/README.md
+
+----------
+Access to pickled data (copy and paste all the files directly into your directory):
+https://liveuclac-my.sharepoint.com/:u:/g/personal/zchadly_ucl_ac_uk/EXZ6H10Ly-NKpDGO4Gq1n2gB9CN6xXMmg585hViM7ywgRA?e=RJcuhb
