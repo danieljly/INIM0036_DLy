@@ -15,3 +15,8 @@ If you wish to attempt to recreate the data shown in the project, run the follow
 1. run 'generate_socialgraph.py'. This should create 10 text files named 'socialgraph_0' to 'socialgraph_9'
 2. run 'test_run_simulations.py', but HEED THE #TODO STATEMENTS. All proportions are in decimal form, so to test a percentage superspreader compliance, you will have to divide your percentage by 100.
 3. run any of the other Python files - to ensure as much accuracy as possible, all of the data was taken from the pickle files.
+
+
+----------
+Access to main file: 
+https://github.com/danieljly/INIM0036_DLy/blob/main/README.md
